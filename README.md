@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello World! Eu sou a Adriana Arake 🖐️
 
-<!--
-**Driarake/Driarake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estou em transição de carreira!!! 🙂
 
-Here are some ideas to get you started:
+[![ Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/driarake/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Driarake&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+![Driarake GitHub stats](https://github-readme-stats.vercel.app/api?username=Driarake&show_icons=true&theme=dracula&count_private=true)
+
+<div align="center">
+<br><p align="center"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Driarake}/count.svg" /></p>
+<br>
+</div>
