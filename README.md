@@ -8,7 +8,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Driarake&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-![Driarake GitHub stats](https://github-readme-stats.vercel.app/api?username=Driarake&show_icons=true&theme=dracula&count_private=true)
+<div align = "center" >
+  <a href="https://github.com/Driarake">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Driarake&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Driarake&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
 <div align="center">
 <br><p align="center"><b>Contagem de visitantes</b></p>  
