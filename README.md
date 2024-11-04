@@ -2,6 +2,8 @@
 
 ## Estou em transição de carreira!!! 🙂
 
+Fui apresentada a programação na pandemia e comecei a estudar com muitas dificuldades, no começo não entendia nada, mas com o passar do tempo fui começando a entender mais, porém tive que parar de estudar um tempo pois fiquei grávida, agora estou tentando retomar os estudos aos poucos!!! 
+
 [![ Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/driarake/)
 
 <p align="center">
